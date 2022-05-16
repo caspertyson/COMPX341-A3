@@ -1,5 +1,4 @@
-import React from "react";
-import { LinkContainer } from "react-router-bootstrap";
+impoimport { LinkContainer } from "react-router-bootstrap";
 import { NavItem } from "react-bootstrap";
 import "../../../common/styles/gallery.css";
 
